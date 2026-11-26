@@ -101,3 +101,10 @@ the runtime, the body is 71%.
 **Hook:** "Neediness makes you cheaper. The moment a client feels how badly you need the job, the power shifts."
 **Numbers:** 1.05M followers, 1.28M views, 22x median
 **Status:** `inbox`
+
+### 2026-11-26 · $100M CEO tier list · ranking format
+**Link:** https://www.instagram.com/reel/DgNYbCXMzX4/
+**Why:** "next reel idea can be this"
+**Format:** off camera voice prompts, on camera grades S to F, one sentence each. 7 items in 26s
+**Mechanic:** the scale needs no setup, every item resolves in 3s, contrarian grades are the spikes
+**Status:** `analysed` · Wajdan version drafted at scripts/drafts/UNLOCKED-tier-list.md, not locked
