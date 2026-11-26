@@ -8,6 +8,9 @@ Research base and reel scripts for Wajdan's organic content.
 | `research/scripts/` | Locked, shoot ready scripts |
 | `deliverables/` | PDFs for Wajahat |
 
+`research/craft.md` holds what has been learned about how short form works. Read it before
+writing anything.
+
 **Start with `research/WORKFLOW.md`.** It explains how the system runs, what each tool is for
 and what it costs.
 

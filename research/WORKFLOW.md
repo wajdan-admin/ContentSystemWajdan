@@ -12,6 +12,8 @@
 | `viral-playbook.md` | Formats mapped to Wajdan topics, plus the reuse grid (~35 live cells) |
 | `meta-swipe.md` | Competitor ad headlines, longest runners, page IDs to re-query |
 | `ideal-profile.md` | The locked spec and the 7 point post or kill test |
+| `craft.md` | **How short form actually works.** Principles learned from teardowns, applied to every script |
+| `swipe-file.md` | Reels Wajahat flagged as good, with why |
 | `scripts/` | Locked, shoot ready scripts |
 | `deliverables/` | The PDFs that go to Wajahat |
 
@@ -68,6 +70,11 @@ write. Use this when the reference is not already torn down.
 Scrape the last 30 posts from all 26 creators (~$2.05), compute each post's multiple against that
 creator's median, surface anything above about 5x, teardown the top five (~$0.19 each).
 Produces fresh hooks that are currently working. **Monthly cadence.**
+
+### Path E. "Learn this"  —  ~$0.05
+A link or a script sent to be learned from, not copied. Tear it down, pull the transferable
+principle, add it to `craft.md` with its source, then say which existing scripts break the new
+rule. This is training, not a reel request.
 
 ### Path D. New niche or a client's niche  —  40 vidIQ credits
 Full discovery pass. Account discovery plus outlier searches across concept, hook and format.
