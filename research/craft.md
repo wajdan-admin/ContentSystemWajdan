@@ -20,6 +20,15 @@ source, and then say honestly which existing scripts break the rule.
 
 ---
 
+## Accounts to learn craft from
+Not creators we model for subject. Accounts that teach how short form works.
+
+| Handle | What they teach | Noted |
+|---|---|---|
+| **@kallawaymarketing** | Storytelling structure, attention, retention. Source of principle 1 | 2026-11-26 |
+
+---
+
 # PRINCIPLES
 
 ## 1. The modern story arc: stack peaks, do not build to one
