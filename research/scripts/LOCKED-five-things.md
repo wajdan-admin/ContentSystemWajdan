@@ -18,8 +18,8 @@ get them clients. Do not build them a website as well.
 Number three is one channel. This is where you find buyers. If that is Meta ads, run Meta
 ads. Stop doing cold email and LinkedIn in the same month.
 
-Number four is one tool. This is how you sell. It might be a call. It might be a DM. Pick
-one and get good at it.
+Number four is one tool. This is how you sell. It might be a call. It might be a DM. It
+might be a CRM. Pick one and get good at it.
 
 Number five is 360 days. You do those four things for 360 days and you change nothing.
 
