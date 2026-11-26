@@ -107,4 +107,4 @@ the runtime, the body is 71%.
 **Why:** "next reel idea can be this"
 **Format:** off camera voice prompts, on camera grades S to F, one sentence each. 7 items in 26s
 **Mechanic:** the scale needs no setup, every item resolves in 3s, contrarian grades are the spikes
-**Status:** `analysed` · Wajdan version drafted at scripts/drafts/UNLOCKED-tier-list.md, not locked
+**Status:** `analysed` · `built` · scripts/LOCKED-tier-list.md, PDF in deliverables/

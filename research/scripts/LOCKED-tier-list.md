@@ -1,4 +1,5 @@
-# Draft: the tier list reel
+# LOCKED: the tier list reel
+**PDF:** deliverables/Wajdan_Reel_Ranking.pdf
 **Modelled on:** https://www.instagram.com/reel/DgNYbCXMzX4/ · "$100M CEO ranks your first investments"
 · 26s, 7 items, single shot, off camera prompter, animated S to F graphic.
 
