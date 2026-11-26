@@ -36,6 +36,22 @@ and trios of synonyms dressed up as a framework.
 
 ## Entries
 
+### 2026-11-26 · @danmartell · five point list
+**Link:** https://www.instagram.com/reel/DgLciEape-q/
+**Why:** "i think this idea fits wajdan a lot"
+**Format:** five items, each one named, explained and corrected in three short full sentences.
+The fifth is time, which is the one nobody wants. No CTA.
+**Numbers:** 88,782 plays within a day of posting
+**Status:** `built` → `scripts/LOCKED-five-things.md`
+
+### 2026-11-26 · @aymen_berrahma · if I had to start from scratch
+**Link:** https://www.instagram.com/reel/DYFYlk2DygH/
+**Why:** liked the structure. The CTA is step four of the framework rather than bolted on the end.
+**Format:** "if I had to start from scratch", numbered steps, CTA as the final step, proof after
+the ask as the reward
+**Numbers:** 688,397 plays, 29,915 likes, 9,409 comments. A 1.37% comment rate
+**Status:** `analysed` · Wajdan version drafted, not locked
+
 ### 2026-11-26 · @second___harvest · contrarian prediction
 **Link:** https://www.instagram.com/reel/DerzdPUR9aY
 **Why:** picked out of a shortlist. Liked that the whole thesis is on screen and the caption does the work.
