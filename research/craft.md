@@ -131,3 +131,41 @@ If a word needs explaining, it is the wrong word. "Vertical" was cut for this re
 defines "niche", he just says "small businesses is not a niche, a dentist is".
 
 Show the wrong answer, then two or three right ones. Faster than a definition and it sticks.
+
+---
+
+## 8. The opening construction is a container, not a hook
+**Source:** @kallawaymarketing, last 24 reels pulled 2026-11-26. Median 52,185 plays.
+
+He opens almost everything the same way. "Here's how to" five times, "This is the" or "This is
+how" seven times, "These are the" three times, "The reason your" three times.
+
+**It is not what makes them work.** The same constructions sit at the top and the bottom of his
+own feed:
+
+| Plays | Multiple | Opening |
+|---|---|---|
+| 1,299,677 | 24.9x | "Here's how to make your storytelling so addictive, it is scientifically impossible to skip" |
+| 938,507 | 18.0x | "This is how you turn Claude into a social media machine" |
+| 26,612 | 0.5x | "Here's the easiest way to find new formats not currently used in your niche" |
+| 8,001 | 0.2x | "This is how to get people addicted to your storytelling, even if you talk about super boring topics" |
+
+A 124x spread on the same four words.
+
+**What separates them:**
+
+1. **An extreme, specific promise.** "Scientifically impossible to skip." "Basically unskippable."
+   Not "the easiest way" or "the best way", which are claims with nothing behind them.
+2. **Or a named mistake.** "You're using the wrong story arc" tells them exactly what is broken.
+3. **No hedging.** His worst reel hedged with "even if you talk about super boring topics". Any
+   conditional clause in a hook is a leak.
+4. **Shorter.** His top six average 71 seconds. His bottom six average 110 seconds.
+
+**How we use it.** Treat the construction as free scaffolding, then make it earn its place:
+
+- "Here's how to ..." needs an extreme outcome after it, not a mild one.
+- "These are the ..." needs a number and a consequence, not just a list.
+- "The reason your ... is ..." needs the actual named cause, not a vague one.
+
+**Test before writing the body:** could a competitor put their name on this opening line? If yes,
+it is a container with nothing in it. Same test as the headline rule.
